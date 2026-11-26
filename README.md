@@ -35,9 +35,9 @@ FluoR provides an interactive workflow for importing fluorescence measurements, 
 ### Windows desktop application
 
 1. Visit the [Releases](https://github.com/jjsanchezgil/FluoR/releases) page.
-2. Download the Windows installer for the desired version.
-3. Run the installer and follow the installation instructions.
-4. Launch FluoR from the desktop or Windows Start menu.
+2. Download the Windows installer.
+3. Run the installer.
+4. Launch FluoR.
 
 The standalone application includes the R runtime and required R packages. No separate R installation or internet connection is required to run FluoR after installation.
 
