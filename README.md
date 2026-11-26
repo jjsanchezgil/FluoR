@@ -1,12 +1,20 @@
-# FluoR
+<p align="center">
+  <img src="icon/fluor-icon.png" alt="FluoR logo" width="180">
+</p>
 
-**Fluorescence-based DNA quantification and microplate analysis**
+<h1 align="center">FluoR</h1>
 
-![Version](https://img.shields.io/badge/version-0.1.0-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Platform](https://img.shields.io/badge/platform-Windows%20x64-blue)
-![R](https://img.shields.io/badge/language-R-276DC3)
-![Shiny](https://img.shields.io/badge/framework-Shiny-447099)
+<p align="center">
+  <strong>Fluorescence-based DNA quantification and microplate analysis</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/version-0.1.0-blue">
+  <img src="https://img.shields.io/badge/license-MIT-green">
+  <img src="https://img.shields.io/badge/platform-Windows%20x64-blue">
+  <img src="https://img.shields.io/badge/language-R-276DC3">
+  <img src="https://img.shields.io/badge/framework-Shiny-447099">
+</p>
 
 FluoR is an R/Shiny application for fluorescence-based DNA quantification and microplate analysis, featuring optional fluorescence decay correction based on pipetting order.
 
