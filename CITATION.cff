@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use FluoR in your research, please cite it as follows."
+title: "FluoR: Fluorescence-based DNA quantification and microplate analysis"
+type: software
+authors:
+  - family-names: "Sánchez-Gil"
+    given-names: "Juan J."
+version: "0.1.0"
+license: MIT
+repository-code: "https://github.com/jjsanchezgil/FluoR"
+url: "https://github.com/jjsanchezgil/FluoR"
+abstract: "FluoR is an R/Shiny application for fluorescence-based DNA quantification and microplate analysis, featuring optional fluorescence decay correction based on pipetting order."
+keywords:
+  - DNA quantification
+  - Fluorescence
+  - Microplate analysis
+  - Fluorescence decay
+  - Plate reader
+  - R
+  - Shiny
